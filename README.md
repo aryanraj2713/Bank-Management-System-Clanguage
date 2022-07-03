@@ -5,7 +5,7 @@ In this project, you can create a new account, update information of an existing
 
 
 
-In this bank management system project in C, file handling has been used for almost all functions. File has been used to store data related to new account, transaction, editing of account information and viewing of account information.
+In this bank management system project in C, file handling has been used for almost all functions. Structures , Unions and arrays has been used to store data related to new account, transaction, editing of account information and viewing of account information.
 
 
 
